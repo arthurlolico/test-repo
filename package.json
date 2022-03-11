@@ -4,11 +4,11 @@
   "repository": "https://github.com/arthurlolico/test-repo",
   "author": "<arthur.lolico@gmail.com>",
   "devDependencies": {
-    "@babel/core": "^7.17.5",
+    "@aws-sdk/client-dynamodb": "^3.54.0",
     "@babel/preset-env": "^7.16.11",
-    "@babel/preset-react": "^7.16.7",
     "@babel/preset-typescript": "^7.16.7",
-    "babel-jest": "^27.5.1",
+    "@shelf/jest-dynamodb": "^2.2.3",
+    "aws-sdk": "^2.1092.0",
     "jest": "^27.5.1"
   },
   "scripts": {
