@@ -4,6 +4,11 @@
   "repository": "https://github.com/arthurlolico/test-repo",
   "author": "<arthur.lolico@gmail.com>",
   "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-jest": "^27.5.1",
     "jest": "^27.5.1"
   },
   "scripts": {
