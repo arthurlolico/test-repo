@@ -1,0 +1,12 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "repository": "https://github.com/arthurlolico/test-repo",
+  "author": "<arthur.lolico@gmail.com>",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
